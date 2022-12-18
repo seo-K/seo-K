@@ -25,6 +25,5 @@
    <br>
   
 ![seo-K GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-K&show_icons=true&theme=material-palenight&text)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seo-K&theme=material-palenight)](https://git.io/streak-stats)
-[![seo-K github activity graph](https://activity-graph.herokuapp.com/graph?username=seo-K&theme=material-palenight)](https://github.com/seo-K/github-readme-activity-graph)
 
 </div>
