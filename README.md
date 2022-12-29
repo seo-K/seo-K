@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monofett&size=30&duration=2000&color=9E3AE9&center=true&vCenter=true&multiline=true&height=100&lines=Welcome;Seo-K+GIthub)](https://git.io/typing-svg)
 
-<!-- ✨ Want to Learn ✨
+✨ Want to Learn ✨
   
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
  <br>
  <br>
- <br> -->
+ <br>
 🐱‍🏍Skills🐱‍🏍
 <br>
 <br>
