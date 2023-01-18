@@ -2,14 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monofett&size=30&duration=2000&color=9E3AE9&center=true&vCenter=true&multiline=true&height=100&lines=Welcome;Seo-K+GIthub)](https://git.io/typing-svg)
 
-✨ Want to Learn ✨
+⚡️ Want to Learn ⚡️
   
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
  <br>
  <br>
  <br>
-🐱‍🏍Skills🐱‍🏍
+✨ skills ✨
 <br>
 <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)<br>
@@ -23,7 +22,6 @@
   
    <br>
    <br>
-  
-![seo-K GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-K&show_icons=true&theme=material-palenight&text)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seo-K&theme=material-palenight)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seo-K&theme=material-palenight)](https://git.io/streak-stats)![seo-K GitHub stats](https://github-readme-stats.vercel.app/api/?username=seo-K&show_icons=true&theme=material-palenight)
 </div>
